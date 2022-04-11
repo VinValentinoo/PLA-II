@@ -57,3 +57,7 @@ h1{
 .homePageText .wrapper p{
 	padding-top: 15px;
 }
+
+.form{
+	flex-direction: column-reverse;
+}
