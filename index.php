@@ -17,10 +17,11 @@
             <div class="wrapper">
                 <h2>Onze techniek</h2>
                 <p>Onze gloednieuwe achtbaantechniek heet MagnaDrive. </p>
-                <p>Door middel van een aantal onderdelen die ons ontwikkelteam uitgevonden heeft, kunnen we een achtbaan produceren die tot 5-10% sneller kan gaan dan de snelste achtbaan tot nu toe, enkele graden scherpte kan toevoegen aan bochten, en ook nog langer meegaat dan achtbanen gemaakt van gebruikelijke onderdelen.</p>
-                <p>Het mooiste is nog dat de onderdelen niet veel duurder zullen zijn dan onze concurrentie. Vanwege de scherpere bochten is in veel gevallen ook de achtbaan compacter te maken, wat ook weer ruimte vrijmaakt voor andere attracties.</p>
+                <p>We kunnen door middel van een aantal onderdelen, die recent zijn uitgevonden door ons ontwikkelteam, een achtbaan maken tot wel 10% sneller kan gaan de de huidige snelste achtbaan. deze achtbaan kan ook nog scherpere bochten maken en deze achtbaan zal nog langer meegaan dan de andere achtbanen die er nu zijn.</p>
+                <p>Het beste aan deze nieuwe onderdelen is dat ze niet eens veel duurder zullen zijn dan de huidige onderdelen van onze concurrentie. Ook zullen de attracties vanwege de scherpere bochten veel compacter zijn waardoor er meer ruimte zal zijn voor andere attracties.</p>
             </div>
         </div>
     </main>
+    <?php require_once 'footer.php'; ?>
 </body>
 </html>
