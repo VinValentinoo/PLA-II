@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cartPageImage{
+    background-image: url(../img/plaatje7.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.cartPageText{
+
+}
