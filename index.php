@@ -9,8 +9,7 @@
     <main>
         <div class="homePage">
             <div class="wrapper">
-                <h1>HOME</h1> 
-                
+                <h1>HOME</h1>  
             </div>
         </div>
         <div class="homePageText">
