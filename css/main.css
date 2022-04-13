@@ -58,7 +58,15 @@ h1{
 	padding-top: 15px;
 }
 
-.form{
+.form-group{
 	display: flex;
 	flex-direction: column;
+	flex-wrap: wrap;
+	text-align: center;
+	border-width: 50px;
+}
+
+.form-container{
+	border: 1px solid yellow ;
+	border-width: 200px ;
 }
