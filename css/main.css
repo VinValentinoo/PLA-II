@@ -72,7 +72,7 @@ h1{
 }
 
 .container-background {
-    background-image: url('../img/POR\ PLA-II\ &\ SAM-I\ plaatje2.jpg');
+    background-image: url(' ../img/plaatje2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -110,4 +110,12 @@ h1{
 .ad {
 	display: flex;
 	flex-direction: row;
+}
+
+.form-containerbackground{
+	background-image: url('../img/plaatje3.jpg');
+	repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+
 }

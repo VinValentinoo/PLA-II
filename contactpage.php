@@ -9,14 +9,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>contactpage</title>
 </head>
+    
             <?php
             if(isset($_GET['msg'])){
             echo $_GET['msg'];
             }
 
             ?>
+    
 <body>
-    <h1>contactpage</h1>
+    <div class="form-containerbackground">
+        <h1>contactpage</h1>
+    </div>
         <div class="form-container">
            <form action="backend/receiveForm.php" method="POST">
                 <div class="form-group">
@@ -40,7 +44,7 @@
                 </div>
             </form>
         </div>
-
+    
        
 
         <?php require_once 'footer.php'; ?>
